@@ -63,4 +63,5 @@ Gráfico de dispersión: “Distribución de nivel de vulnerabilidad por cantida
 -Inicialmente el dashboard lo hice en Power BI, pero por temas de licencia en mi cuenta con Microsoft 365 no pude compartirlo en la web, así que lo realicé en Looker Studio. De todas formas, dejaré el archivo de Power BI y el enlace al dashboard en Looker Studio.
 
 -El código extraer.py crea una carpeta llamada “1 Fuentes”
+
 -El código transformacion.py crea una carpeta llamada “3 exportado”
