@@ -73,8 +73,6 @@ cd ./2\ Codigos
 
 # Notas adicionales 
 
--Ejecutar: pip install pipenv
-
 -Recomiendo instalar el navegador de Chrome para realizar el web scraping 
 
 -Inicialmente el dashboard lo hice en Power BI, pero por temas de licencia en mi cuenta con Microsoft 365 no pude compartirlo en la web, así que lo realicé en Looker Studio. De todas formas, dejaré el archivo de Power BI y el enlace al dashboard en Looker Studio.
