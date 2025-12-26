@@ -33,18 +33,23 @@ Este caso tiene como objetivo analizar el nivel de vulnerabilidad socioterritori
 -Se crean indicadores mostrando los datos importantes de la Región Metropolitana, como el recuento de las comunas, la cantidad total de habitantes, el gasto total municipal y un promedio de gasto por habitante
 
 - ¿Dónde está concentrada la población según su nivel de vulnerabilidad? 
+
 Gráfico: “cantidad de población por nivel de vulnerabilidad”
 
 - ¿Qué comunas concentran mayor gasto municipal y en qué nivel de vulnerabilidad están? 
+
 Treemap: “Comunas que más gastan por nivel de vulnerabilidad”
 
 - ¿Influye el tipo de comuna (Urbana, mixta, rural) en el patrón de gasto y vulnerabilidad ? 
+
 Barras apiladas: “Gasto por tipo de comuna y nivel de vulnerabilidad”
 
-- ¿Dónde están territorialmente las comunas más vulnerables dentro de la Región Metropolitana? 
+- ¿Dónde están territorialmente las comunas más vulnerables dentro de la Región Metropolitana?
+
 Mapa: “Comunas por nivel de vulnerabilidad”
 
 - ¿Existe relación entre el nivel de vulnerabilidad de las comunas, el gasto municipal por habitante y el tamaño de su población dentro de la Región Metropolitana? 
+
 Gráfico de dispersión: “Distribución de nivel de vulnerabilidad por cantidad de comunas” 
 
 
