@@ -28,7 +28,7 @@ Este caso tiene como objetivo analizar el nivel de vulnerabilidad socioterritori
 -Antes de terminar y exportar me aseguro de que “gasto_por_habitante” y “gasto_por_hogar” sean redondeados a solo un decimal 
 
 
-Se procede a entregar información visual de las comunas y nivel de vulnerabilidad que estas presentan
+# Dashboard 
 
 -Se crean indicadores mostrando los datos importantes de la Región Metropolitana, como el recuento de las comunas, la cantidad total de habitantes, el gasto total municipal y un promedio de gasto por habitante
 
