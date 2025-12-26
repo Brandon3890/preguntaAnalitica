@@ -58,6 +58,7 @@ Gráfico de dispersión: “Distribución de nivel de vulnerabilidad por cantida
 - Instalacion de ambiente virtual 
 
     pip install pipenv 
+    
 
 Luego, desde el directorio donde se encuentra el archivo Pipfile, ejecuta
 
@@ -65,9 +66,12 @@ Luego, desde el directorio donde se encuentra el archivo Pipfile, ejecuta
 
 - Carpeta “2 Codigos”
 
-cd ./2\ Codigos
-	pipenv run python extraer.py
-	pipenv run python transformacion.py
+    cd ./2\ Codigos
+
+    pipenv run python extraer.py
+
+    pipenv run python transformacion.py
+
  
 
 
