@@ -53,6 +53,23 @@ Mapa: “Comunas por nivel de vulnerabilidad”
 Gráfico de dispersión: “Distribución de nivel de vulnerabilidad por cantidad de comunas” 
 
 
+# Ejecución de código
+
+- Instalacion de ambiente virtual 
+
+    pip install pipenv
+
+Luego, desde el directorio donde se encuentra el archivo Pipfile, ejecuta
+
+    pipenv install  
+
+- Carpeta “2 Codigos”
+
+cd ./2\ Codigos
+	pipenv run python extraer.py
+	pipenv run python transformacion.py
+ 
+
 
 # Notas adicionales 
 
