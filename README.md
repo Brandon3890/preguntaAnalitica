@@ -60,7 +60,7 @@ Gráfico de dispersión: “Distribución de nivel de vulnerabilidad por cantida
     pip install pipenv 
 
 
-Luego, desde el directorio donde se encuentra el archivo Pipfile, ejecuta
+- Luego, desde el directorio donde se encuentra el archivo Pipfile
 
     pipenv install  
 
